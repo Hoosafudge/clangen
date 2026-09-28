@@ -196,20 +196,17 @@
                         "color": "exotic_base"
                     }
                 }
-            },
+},
         {
-            "colors": "RUST",
-    "layer_order": ["1", "2", "3", "4", "5", ["6", ["7", "8", "+blend_mode:mask"]]],
-    "layers": {
-        "6": {
-            "group_name": "BACKTAILPATTERNGRAD",
-            "color": "freckled_pattern_gradient_top"
-        },
-        "3": {
-            "group_name": "BACKTAILPATTERNGRAD",
-            "color": "exotic_base_gradient_top"
-        }
-    }
+            "colors": "BUZZY",
+            "layer_order": ["1", "2", "3", "4"],
+            "layers":
+            {
+                "4": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "base_gradient_legs_tail"
+                }
+            }
         }
     ]
 }
