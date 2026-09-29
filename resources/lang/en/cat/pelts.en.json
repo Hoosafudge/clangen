@@ -321,6 +321,22 @@
             "one": "white",
             "many": "alabaster grey"
         },
+        "TIGREX": {
+            "one": "orange",
+            "many": "blue and orange"
+        },
+        "BRUTE": {
+            "one": "dark mocha",
+            "many": "dark mocha"
+        },
+        "MOLTEN": {
+            "one": "molten",
+            "many": "molten"
+        },
+        "GRIMCLAW": {
+            "one": "sunflower gold",
+            "many": "blue and gold"
+        },
         "PEARL-SU": {
             "one": "pearlesque", 
             "many": "pearlesque"

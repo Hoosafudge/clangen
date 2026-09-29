@@ -169,6 +169,124 @@
                     "color": "base_gradient_legs_tail"
                 }
             }
+},
+        {
+            "colors": "VELOCIDROME",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+        },
+        {
+            "colors": "GENDROME",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "IODROME",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "GIADROME",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "GORE",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "TORIDCLESS",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "TIGREX",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "BRUTE",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "MOLTEN",
+            "layer_order": ["1", "2", "3", "4"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "leggies"
+                }
+            }
+},
+        {
+            "colors": "GRIMCLAW",
+            "layer_order": ["1", "2", "3", "4"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "leggies"
+                }
+            }
         }
     ]
 }

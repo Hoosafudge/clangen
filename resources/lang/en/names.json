@@ -549,6 +549,18 @@
     "TORIDCLESS": [
     "Shining", "Thunder", "Lightning", "Wyvern", "Bird", "Eagle", "Hawk", "Falcon", "White", "Cloud", "Cloudy", "Alabaster", "Brilliant", "Radiant", "Grey", "Azure", "Highland", "Highlands", "Steppe", "Feather", "Shimmering", "Storm", "Flash", "Flashing", "Bright", "Blinding", "Electric", "Thunderous", "Bold", "Bolt", "Striking", "Strike", "Talon", "Screech", "Wind", "Gale", "Tempest"
     ],
+    "TIGREX": [
+    "Roaring", "Shattering", "Resounding", "Resonant", "Raging", "Rushing", "Crushing", "Crush", "Rage", "Fang", "Snap", "Gnashing", "Rampaging", "Rampage", "Tiger", "Wyvern", "Brute", "Powerful", "Reckless", "Charging", "Beast", "Beastly", "Charging", "Claw", "Thunderous"
+    ],
+    "BRUTE": [
+    "Roaring", "Shattering", "Resounding", "Resonant", "Raging", "Rushing", "Crushing", "Crush", "Rage", "Fang", "Snap", "Gnashing", "Rampaging", "Rampage", "Tiger", "Wyvern", "Brute", "Powerful", "Reckless", "Charging", "Beast", "Beastly", "Charging", "Claw", "Thunderous", "Black", "Obsidian", "Ebony"
+    ],
+    "MOLTEN": [
+    "Roaring", "Shattering", "Resounding", "Resonant", "Raging", "Rushing", "Crushing", "Crush", "Rage", "Fang", "Snap", "Gnashing", "Rampaging", "Rampage", "Tiger", "Wyvern", "Brute", "Powerful", "Reckless", "Charging", "Beast", "Beastly", "Charging", "Claw", "Thunderous", "Molten", "Infernal", "Inferno", "Blaze", "Red", "Crimson", "Explosive", "Rock", "Magma", "Lava"
+    ],
+    "GRIMCLAW": [
+    "Roaring", "Shattering", "Resounding", "Resonant", "Raging", "Rushing", "Crushing", "Crush", "Rage", "Fang", "Snap", "Gnashing", "Rampaging", "Rampage", "Tiger", "Wyvern", "Brute", "Powerful", "Reckless", "Charging", "Beast", "Beastly", "Charging", "Claw", "Thunderous", "Ruinous", "Grim", "Hook", "Snarl", "Grimclaw"
+    ],
     "PEARL-SU": [
     "Pearl", "Reef", "Coral", "Dance", "Bird", "Lily", "Willow", "Petal", "Rose",
     "Flower", "Anemone", "Sand", "Weeping", "Gem"
@@ -834,6 +846,18 @@
     ],
     "TORIDCLESS": [
     "shine", "thunder", "lightning", "wyvern", "storm", "shimmer", "bright", "flash", "bolt", "strike", "highland", "feather", "wing", "wings", "flight", "soar", "sky", "cry", "screech", "talon", "claw", "cloud", "gale", "tempest", "wind"
+    ],
+    "TIGREX": [
+    "roar", "rage", "crush", "fang", "tooth", "teeth", "jaw", "maw", "ire", "rampage", "wyvern", "tiger", "brute", "shatter", "rush", "charger", "gnash", "tear", "rip", "rend", "beast", "claws", "claw", "wing", "arm"
+    ],
+    "BRUTE": [
+    "roar", "rage", "crush", "fang", "tooth", "teeth", "jaw", "maw", "ire", "rampage", "wyvern", "tiger", "brute", "shatter", "rush", "charger", "gnash", "tear", "rip", "rend", "beast", "claws", "claw", "wing", "arm", "ash", "soot", "rock", "cave", "cavern", "chasm", "dust"
+    ],
+    "MOLTEN": [
+    "roar", "rage", "crush", "fang", "tooth", "teeth", "jaw", "maw", "ire", "rampage", "wyvern", "tiger", "brute", "shatter", "rush", "charger", "gnash", "tear", "rip", "rend", "beast", "claws", "claw", "wing", "arm", "fire", "blast", "blaze", "inferno", "ash", "soot"
+    ],
+    "GRIMCLAW": [
+    "roar", "rage", "crush", "fang", "tooth", "teeth", "jaw", "maw", "ire", "rampage", "wyvern", "tiger", "brute", "shatter", "rush", "charger", "gnash", "tear", "rip", "rend", "beast", "claws", "claw", "wing", "arm"
     ],
     "PEARL-SU": [
     "flower", "petal", "meadow", "thrust", "pierce", "bloom", "dance", "mist", "dream", "cloud", "shine", "parry"
