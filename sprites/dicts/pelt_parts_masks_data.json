@@ -52,9 +52,20 @@
         [
             "BACKTAILPATTERNGRAD",
             "LEGPATTERNGRAD",
-            "MASKEDEYEBROWS"
-
+            "MASKEDEYEBROWS",
+            "EYERINGS",
+            "FALSEEYES",
+            "PINSTRIPEPATTERN",
+            "HINDLEGS",
+            "BRAIDEDPATTERN",
+            "BRAIDEDFILL",
+            "CHEETAHPATTERN"
+        ],
+        [   
+            "CHEETAHCHEST",
+            "SPICEPATTERN",
+            "SPICEACCENT",
+            "SPICENOSE"
         ]
-
     ]
 }

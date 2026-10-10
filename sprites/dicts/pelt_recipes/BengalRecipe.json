@@ -199,6 +199,82 @@
                     "color": "exotic_leggies"
                 }
             }
+        },
+        {
+            "colors": "RATHI",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "7": {
+                    "group_name": "HINDLEGS",
+                    "color": "smoke_leggies"
+                }
+            }
+        },
+        {
+            "colors": "PINK-RATHI",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "7": {
+                    "group_name": "HINDLEGS",
+                    "color": "smoke_leggies"
+                }
+            }
+        },        
+        {
+            "colors": "GOLD-RATHI",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "7": {
+                    "group_name": "HINDLEGS",
+                    "color": "smoke_leggies"
+                }
+            }
+        },
+        {
+            "colors": "DREADQUEEN",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "7": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "smoke_leggies"
+                }
+            }
+        },
+        {
+            "colors": "DARKRANZA",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", "7.5", "8"],
+            "layers":
+            {
+                "7": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "leggies"
+                 },
+                "7.5": {
+                    "group_name": "EYERINGS",
+                    "color": "eye_mask"
+                },
+                "8": {
+                    "group_name": "FALSEEYES",
+                    "color": "false_eyes"
+                }
+            }
+        },
+        {
+            "colors": "MONARCH",
+            "layer_order": ["1", "2", "3", "3.5", "4", ["5", "6"], "7", ["8", "9"], "10", "11"],
+            "layers":
+            {
+                "3.5": {
+                    "group_name": "BASICPATTERNGRAD",
+                    "color": "pattern_gradient_top",
+                    "opacity": 95
+                }
+            }
         }
     ]
 }
+

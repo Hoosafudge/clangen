@@ -17,5 +17,9 @@
     "Singlestripe": "SinglestripeRecipe",
     "Bengal": "BengalRecipe",
     "Marbled": "MarbledRecipe",
-    "Masked": "MaskedRecipe"
+    "Masked": "MaskedRecipe",
+    "Pinstripe": "PinstripeRecipe",
+    "Braided": "BraidedRecipe",
+    "Cheetah": "CheetahRecipe",
+    "Spice": "SpiceRecipe"
 }

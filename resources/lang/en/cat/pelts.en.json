@@ -13,6 +13,10 @@
             "one": "silver",
             "many": "silver"
         },
+        "SOOT": {
+            "one": "gray",
+            "many": "gray"
+        },
         "GREY": {
             "one": "gray",
             "many": "gray"
@@ -48,6 +52,10 @@
         "GOLDEN": {
             "one": "golden",
             "many": "golden"
+        },
+        "SUNSHINE": {
+            "one": "golden",
+            "many": "golden black"
         },
         "GINGER": {
             "one": "ginger",
@@ -225,6 +233,74 @@
             "one": "blue",
             "many": "blue"
         },
+        "BONE": {
+            "one": "pale brown",
+            "many": "pale brown"
+        },
+        "QUARTZ": {
+            "one": "pale",
+            "many": "pale"
+        },
+        "WOOL": {
+            "one": "pale",
+            "many": "pale"
+        },
+        "DIORITE": {
+            "one": "light gray",
+            "many": "light gray"
+        },
+        "GRAVEL": {
+            "one": "gray",
+            "many": "gray"
+        },
+        "TUFF": {
+            "one": "dark gray",
+            "many": "gray"
+        },
+        "BEDROCK": {
+            "one": "black",
+            "many": "black"
+        },
+        "DEEPSLATE": {
+            "one": "black",
+            "many": "black"
+        },
+        "SKULK": {
+            "one": "black",
+            "many": "black"
+        },
+        "DRIPSTONE": {
+            "one": "brown",
+            "many": "light brown"
+        },
+         "SOUL": {
+            "one": "brown",
+            "many": "brown"
+        },
+         "DEBRIS": {
+            "one": "brown",
+            "many": "brown"
+        },
+        "MAGMA": {
+            "one": "ginger",
+            "many": "magma-ginger"
+        },
+        "RESIN": {
+            "one": "ginger",
+            "many": "ginger"
+        },
+        "SULFUR": {
+            "one": "dark cream",
+            "many": "dark cream"
+        },
+        "SUSPICIOUS": {
+            "one": "dark cream",
+            "many": "dark cream"
+        },
+        "ICE": {
+            "one": "light blue",
+            "many": "light blue"
+        },
         "WHITETIGER": {
             "one": "white",
             "many": "two toned"
@@ -297,6 +373,82 @@
             "one": "pale gold",
             "many": "pale golden"
         },
+        "RICH-MAHOGANY": {
+            "one": "rich mahogany",
+            "many": "rich mahogany"
+        },
+        "DOVE": {
+            "one": "dove grey",
+            "many": "dove grey"
+        },
+        "GRAPHITE": {
+            "one": "graphite",
+            "many": "graphite"
+        },
+        "GREEN": {
+            "one": "green",
+            "many": "green"
+        },
+        "AURORA": {
+            "one": "iridescent",
+            "many": "iridescent"
+        },
+        "MUTED-TEAL": {
+            "one": "muted-teal",
+            "many": "muted-teal"
+        },
+        "FROST-WATER": {
+            "one": "frosty blue",
+            "many": "frosty blue"
+        },
+        "HUNTER-GREEN": {
+            "one": "hunter green",
+            "many": "hunter green"
+        },
+        "DUSTY-ROSE": {
+            "one": "dusty rose",
+            "many": "dusty rose"
+        },
+        "LILAC-ASH": {
+            "one": "lilac",
+            "many": "lilac"
+        },
+        "GOLDSPOT": {
+            "one": "gilded orange",
+            "many": "gilded orange"
+        },
+        "INDIGO": {
+            "one": "indigo",
+            "many": "indigo"
+        },
+        "RADIOACTIVE": {
+            "one": "green and grey",
+            "many": "green and grey"
+        },
+        "DRY-SAGE": {
+            "one": "dry sage",
+            "many": "dry sage"
+        },
+        "BLUEBERRY": {
+            "one": "blueberry",
+            "many": "blueberry"
+        },
+        "AQUA": {
+            "one": "aqua green",
+            "many": "aqua green"
+        },
+        "BLUE-MORPHO": {
+            "one": "blue and stone",
+            "many": "blue and stone"
+        },
+        "MONARCH": {
+            "one": "monarch orange",
+            "many": "monarch orange"
+        },
+        "TECHNICOLOR-VOMIT": {
+            "one": "technicolor",
+            "many": "technicolor"
+        },
         "VELOCIDROME": {
             "one": "blue",
             "many": "azure blue"
@@ -316,6 +468,10 @@
         "GORE": {
             "one": "black",
             "many": "abyssal"
+        },
+        "SHAGARU": {
+            "one": "pale golden",
+            "many": "pale golden"
         },
         "TORIDCLESS": {
             "one": "white",
@@ -337,6 +493,46 @@
             "one": "sunflower gold",
             "many": "blue and gold"
         },
+        "RATHA": {
+            "one": "fiery",
+            "many": "fiery"
+        },
+        "AZURE-RATHA": {
+            "one": "azure",
+            "many": "azure"
+        },
+        "SILVER-RATHA": {
+            "one": "silver",
+            "many": "silver lavender"
+        },
+        "DREADKING": {
+            "one": "dark red",
+            "many": "dreadking red"
+        },
+        "RATHI": {
+            "one": "green",
+            "many": "green"
+        },
+        "PINK-RATHI": {
+            "one": "cherryblossom",
+            "many": "cherryblossom"
+        },
+        "GOLD-RATHI": {
+            "one": "golden",
+            "many": "golden"
+        },
+        "DREADQUEEN": {
+            "one": "olive",
+            "many": "dreadqueen olive"
+        },
+        "DARKRANZA": {
+            "one": "chestnut",
+            "many": "gilded brown"
+        },
+        "MORPHO-KNIGHT": {
+            "one": "fire orange",
+            "many": "fire orange"
+        },
         "PEARL-SU": {
             "one": "pearlesque", 
             "many": "pearlesque"
@@ -357,13 +553,33 @@
             "one": "lapis-like",
             "many": "lapis-like"
         },
-        "WIDAMOND-SU": {
+        "WDIAMOND-SU": {
             "one": "diamond-like",
             "many": "diamond-like"
         },
         "GARURU": {
             "one": "cool white",
             "many": "cold blue"
+        },
+        "VAMPIRE": {
+            "one": "shadowy",
+            "many": "vampiric"
+        },
+        "HOOKTAIL": {
+            "one": "red",
+            "many": "draconic red"
+        },
+        "GLOOMTAIL": {
+            "one": "gloomy",
+            "many": "gloomy"
+        },
+        "BONETAIL": {
+            "one": "dusty",
+            "many": "dusty grey"
+        },
+        "FRACKTAIL": {
+            "one": "peculiar",
+            "many": "robo-dragonlike"
         },
 
         "SingleColour": "single color",
@@ -398,6 +614,14 @@
         "Sokoke_long": "%{color} tabby",
         "Masked": "masked",
         "Masked_long": "masked %{color} tabby",
+        "Pinstripe": "mottled",
+        "Pinstripe_long": "mottled %{color} tabby",
+        "Braided": "braided",
+        "Braided_long": "braided %{color} tabby",
+        "Cheetah": "cheetah print",
+        "Cheetah_long": "unusually spotted %{color}",
+        "Spice": "striped",
+        "Spice_long": "unusually striped %{color}",
         "Calico": "calico",
         "Calico_long": "%{color} calico",
         "Calico_tabby": "calico tabby",

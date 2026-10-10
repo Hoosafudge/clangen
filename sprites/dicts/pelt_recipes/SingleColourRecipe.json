@@ -340,6 +340,241 @@
                     "color": "leggies"
                 }
             }
+        },
+{
+            "colors": "RATHA",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "AZURE-RATHA",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "SILVER-RATHA",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "DREADKING",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "RATHI",
+            "layer_order": ["1", "2", "3", "4"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "HINDLEGS",
+                    "color": "leggies"
+                }
+            }
+},
+        {
+            "colors": "PINK-RATHI",
+            "layer_order": ["1", "2", "3", "4"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "HINDLEGS",
+                    "color": "leggies"
+                }
+            }
+},
+        {
+            "colors": "GOLD-RATHI",
+            "layer_order": ["1", "2", "3", "4"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "HINDLEGS",
+                    "color": "leggies"
+                }
+            }
+},
+        {
+            "colors": "DREADQUEEN",
+            "layer_order": ["1", "2", "3", "4"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "leggies"
+                }
+            }
+},
+        {
+            "colors": "DARKRANZA",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", "7.5", "8"],
+            "layers":
+            {
+                "7": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "leggies"
+                 },
+                "7.5": {
+                    "group_name": "EYERINGS",
+                    "color": "eye_mask"
+                },
+                "8": {
+                    "group_name": "FALSEEYES",
+                    "color": "false_eyes"
+                }
+            }
+        },
+        {
+            "colors": "VAMPIRE",
+            "layer_order": ["1", "2", "3"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+},
+        {
+            "colors": "SHAGARU",
+            "layers":
+            {
+                "1":
+                {
+                    "group_name": "BASEMASK",
+                    "color": "base_singlecolour_black"
+                },
+                "2":
+                {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom_singlecolour_black"
+                },
+                "3":
+                {
+                    "group_name": "SIMPLETOPGRAD",
+                    "color": "base_gradient_top_singlecolour_black"
+                }
+            }
+        },
+        {
+            "poses": ["newborn0", "newborn1", "newborn2"],
+            "layers":
+            {
+                "3":
+                {
+                    "group_name": "SIMPLETOPGRAD",
+                    "color": "newborn_base_gradient_top"
+                },
+                "2":
+                {
+                    "group_name": "SIMPLEBOTTOMGRAD",
+                    "color": "newborn_base_gradient_bottom"
+                },
+                "1":
+                {
+                    "group_name": "BASEMASK",
+                    "color": "newborn_base"
+                }
+            }
+        },
+                {
+            "colors": "MONARCH",
+            "poses": ["newborn0", "newborn1", "newborn2"],
+            "layer_order": ["1", "2"],
+            "layers":
+            {
+                "1":
+                {
+                    "group_name": "BASEMASK",
+                    "color": "newborn_base_singlecolour_black"
+                },
+                "2":
+                {
+                    "group_name": "SIMPLEBOTTOMGRAD",
+                    "color": "newborn_base_gradient_bottom_singlecolour_black"
+                }
+            }
+        },
+        {
+            "colors": "MONARCH",
+            "layer_order": ["1", "2", "3", "4", "5"],
+            "layers": {
+                "5": {
+                    "group_name": "TICKEDDOTS",
+                    "color": "pattern_fill",
+                    "opacity": 95
+                },
+                "4": {
+                    "group_name": "EXOTICPATTERNLIGHT",
+                    "color": "pattern_fill",
+                    "opacity": 95
+                },
+                "3": {
+                    "group_name": "SIMPLETOPGRAD",
+                    "color": "base_gradient_top_singlecolour_black"
+                },
+                "2": {
+                    "group_name": "SIMPLEBOTTOMGRAD",
+                    "color": "base_gradient_bottom_singlecolour_black"
+                },
+                "1": {
+                    "group_name": "BASEMASK",
+                    "color": "base_singlecolour_black"
+                }
+            }
+        },
+        {
+            "colors": "MORPHO-KNIGHT",
+            "layer_order": ["1", "2", "3", "4", "5", "6", "7", ["8", ["9", "10", "11", "+blend_mode:mask"]]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
         }
     ]
 }
+
+
