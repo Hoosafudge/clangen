@@ -347,6 +347,28 @@
                     "color": "base_gradient_bottom"
                 }
             }
+        },
+        {
+            "colors": "ZAMTRIOS",
+            "layer_order": ["1", "2", "3", "4", "5", ["6", ["7", "8", "+blend_mode:mask"], "9", "9.5"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "9": {
+                    "group_name": "BASICPATTERNGRAD",
+                    "color": "frost",
+                    "opacity": 95
+                },
+                "9.5": {
+                    "group_name": "SMOKETOPGRAD",
+                    "color": "top_frost",
+                    "opacity": 70
+                }
+            }
         }
+
     ]
 }

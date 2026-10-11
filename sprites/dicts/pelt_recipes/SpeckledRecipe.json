@@ -388,6 +388,94 @@
                     "color": "base_gradient_bottom"
                 }
             }
+        },
+        {
+            "colors": "MIZUTSUNE",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+        },
+        {
+            "colors": "THUNDERBUBBLE",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+        },
+        {
+            "colors": "VIO-MIZU",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+        },
+        {
+            "colors": "SOULSEER",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "7": {
+                    "group_name": "EYERINGS",
+                    "color": "eyemask"
+                }
+            }
+        },
+        {
+            "colors": "ZAMTRIOS",
+            "layer_order": ["1", "2", "3", "4", ["5", ["6", "7", "+blend_mode:mask"]], "8", "8.5"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "6": {
+                   "group_name": "AGOUTIPATTERN"
+                },
+                "7": {
+                    "group_name": "AGOUTIPATTERN",
+                    "color": "pattern",
+                    "opacity": 50
+                },
+                "8": {
+                    "group_name": "BASICPATTERNGRAD",
+                    "color": "frost",
+                    "opacity": 90
+                },
+                "8.5": {
+                    "group_name": "SMOKETOPGRAD",
+                    "color": "top_frost",
+                    "opacity": 70
+                }
+            }
+        },
+        {
+            "colors": "TIGERSTRIPE",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
         }
     ]
 }

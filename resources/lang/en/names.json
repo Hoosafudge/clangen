@@ -639,6 +639,24 @@
     "GRAPHITE": [
     "Grey", "Dark", "Storm", "Stormcloud", "Soot", "Ash", "Ashen"
     ],
+    "WALNUT": [
+    "Walnut", "Brown", "Cinnamon"
+    ],
+    "TAUPE": [
+    "Taupe", "Mouse", "Owl", "Brown", "Bear"
+    ],
+    "LIGHT-TAUPE": [
+    "Taupe", "Pale", "Bear"
+    ],
+    "KHAKI": [
+    "Beige", "Pale", "Sand", "Sandy", "Tan"
+    ],
+    "GINGERBREAD": [
+    "Cinnamon", "Brown", "Walnut", "Bark", "Spice", "Rat", "Rust", "Bear"
+    ],
+    "DARK-WALNUT": [
+    "Dark", "Walnut", "Brown", "Bark"
+    ],
     "GREEN": [
     "Green", "Verdant", "Leaf"
     ],
@@ -686,6 +704,12 @@
     ],
     "TECHNICOLOR-VOMIT": [
     "Multicolor", "Colorful", "Technicolor", "Rainbow", "Vibrant"
+    ],
+    "WHITE-N-BLACK": [
+    "White", "Black", "Zebra", "Badger"
+    ],
+    "PACHIRISU": [
+    "Spark", "Sparking", "Zap", "Lightning", "Thunder", "Nuzzle", "Squirrel", "Fluffy", "Bushy", "Static", "Shocking", "Electric", "Squirrel", "White", "Alabaster", "Pale", "Pastel"
     ],
     "VELOCIDROME": [
     "Quick", "Blue", "Blurry", "Blurred", "Raptor", "Claw", "Jay", "Sky", "Sapphire", "Azure", "Lapis", "Striking", "Cunning"
@@ -747,8 +771,29 @@
     "DREADQUEEN": [
     "Sky", "Wyvern", "Green", "Verdant", "Olive", "Soaring", "Roaring", "Fire", "Flame", "Blaze", "Winged", "Dark", "Dread", "Inferno", "Blazing", "Scorched", "Scorching", "Sun", "Dreadqueen", "Claw", "Rend", "Sunderring", "Searing", "Seared", "Talon", "Darkened", "Dreaded"
     ],
+    "MIZUTSUNE": [
+    "Bubble", "Fox", "Vixen", "Tricky", "Trickster", "Water", "Misty", "Pink", "Petal", "Rosy", "Ivory", "Rose", "Egg", "Pale", "Waterfall", "Stream", "Blossom", "Painted", "Cunning", "Dancing", "Bewitching"
+    ],
+    "THUNDERBUBBLE": [
+    "Bubble", "Fox", "Vixen", "Tricky", "Trickster", "Water", "Misty", "Ivory", "Egg", "Pale", "Waterfall", "Stream", "Painted", "Cunning", "Dancing", "Bewitching", "Thunder", "Lightning", "Blue", "Indigo", "Thunderbubble"
+    ],
+    "VIO-MIZU": [
+    "Bubble", "Fox", "Vixen", "Tricky", "Trickster", "Water", "Misty", "Violet", "Petal", "Lavender", "Ivory", "Purple", "Silver", "Pale", "Waterfall", "Stream", "Blossom", "Painted", "Cunning", "Dancing", "Bewitching", "Flame", "Fire", "Blazing", "Eldritch", "Ghost", "Phantom", "Specter", "Spirit", "Infernal"
+    ],
+    "SOULSEER": [
+    "Bubble", "Fox", "Vixen", "Tricky", "Trickster", "Water", "Misty", "Pink", "Petal", "Rosy", "Ivory", "Rose", "Egg", "Pale", "Waterfall", "Stream", "Blossom", "Painted", "Cunning", "Dancing", "Bewitching", "Flame", "Fire", "Blazing", "Scorching", "Scorched", "Scorch", "Inferno", "Spirit", "Soul", "Soulseer", "Magenta", "Bluefire", "Scar", "Scarred", "Blind", "Heavenlyeye", "Heavenly"
+    ],
+    "ZAMTRIOS": [
+    "Shark", "Fin", "Fang", "Snapping", "Gnashing", "Blue", "Icy", "Ice", "Icicle", "Glacier", "Frozen", "Frost", "Frosty", "Frosted", "Frog", "Toad", "Leaping", "Lurking", "Stalking", "Jumping", "Terror", "Polar", "Sea", "Ocean", "Deep"
+    ],
+    "TIGERSTRIPE": [
+    "Shark", "Fin", "Fang", "Snapping", "Gnashing", "Orange", "Sandy", "Sand", "Sandstone", "Dune", "Dunes", "Frog", "Toad", "Leaping", "Lurking", "Stalking", "Jumping", "Terror", "Desert", "Wastes", "Dry", "Hot", "Scorched", "Scorching", "Tan"
+    ],
     "DARKRANZA": [
     "Spider", "Tarantula", "Joro", "Wasp", "Mimic", "Dark", "Twisted", "Shaded", "Shade", "Shadow", "Brown", "Chestnut", "Gold", "Gilded", "Web", "Tricky", "Fluffy", "Reflected", "Mirrored", "Mirror", "Echo", "Echoed"
+    ],
+    "MORPHO-KNIGHT": [
+    "Morpho", "Butterfly", "Paradise", "Fire", "Flame", "Inferno", "Blazing", "Hellfire", "Death", "Dead", "Conflagration", "Sol", "Sun", "Sunfire", "Reaper", "Scorching", "Scorched", "Fluttering", "Fiend", "Orange", "Scarlet", "Flutter", "Soul", "Spirit"
     ],
     "HOOKTAIL": [
     "Hook", "Dragon", "Lizard", "Fire", "Flare", "Flame"
@@ -1104,6 +1149,24 @@
     "GRAPHITE": [
     "storm", "ash", "soot"
     ],
+    "WALNUT": [
+    "walnut", "tree", "bark", "branch"
+    ],
+    "TAUPE": [
+    "mouse", "owl"
+    ],
+    "LIGHT-TAUPE": [
+    "frost", "light"
+    ],
+    "KHAKI": [
+    "sand", "beach"
+    ],
+    "GINGERBREAD": [
+    "bark", "tree", "fur", "vole", "rat"
+    ],
+    "DARK-WALNUT": [
+    "walnut", "tree", "bark", "mud"
+    ],
     "GREEN": [
     "grass", "leaf", "sprout"
     ],
@@ -1151,6 +1214,12 @@
     ],
     "TECHNICOLOR-VOMIT": [
     "prism", "shine", "bright", "flash", "glow", "rainbow"
+    ],
+    "WHITE-N-BLACK": [
+    "stripe", "splotch", "spot"
+    ],
+    "PACHIRISU": [
+    "spark", "bolt", "zap", "lightning", "thunder", "nuzzle", "squirrel", "fluff", "puff", "fur", "shock"
     ],
     "VELOCIDROME": [
     "jay", "raptor", "sky", "blur", "claw", "leap", "pounce", "strike", "striker", "chase", "chaser", "cry", "scale", "crest"
@@ -1208,6 +1277,24 @@
     ],
     "DREADQUEEN": [
     "sky", "wyvern", "fire", "flame", "blaze", "wing", "wings", "roar", "soar", "flight", "inferno", "scorch", "dread", "claw", "talon", "claws", "talons", "sear", "darkness", "ire", "land", "forest", "swamp"
+    ],
+    "MIZUTSUNE": [
+    "bubble", "stream", "fox", "vixen", "trickster", "water", "petal", "blossom", "bloom", "waterfall", "dance", "dancer"
+    ],
+    "THUNDERBUBBLE": [
+    "bubble", "stream", "fox", "vixen", "trickster", "water", "petal", "blossom", "bloom", "waterfall", "dance", "dancer", "bolt", "thunder", "lightning"
+    ],
+    "VIO-MIZU": [
+    "bubble", "stream", "fox", "vixen", "trickster", "water", "petal", "blossom", "bloom", "waterfall", "dance", "dancer", "ghost", "phantom", "specter", "spirit", "flame", "fire", "blaze"
+    ],
+    "SOULSEER": [
+    "bubble", "stream", "fox", "vixen", "trickster", "water", "petal", "blossom", "bloom", "waterfall", "dance", "dancer", "spirit", "seer", "soul", "flame", "blaze", "inferno", "fire", "eye"
+    ],
+    "ZAMTRIOS": [
+    "shark", "fin", "fang", "fangs", "tooth", "teeth", "maw", "jaw", "snap", "gnash", "ice", "frost", "icicle", "glacier", "frog", "toad", "leap", "lurker", "jump", "stalker", "terror", "sea", "ocean"
+    ],
+    "TIGERSTRIPE": [
+    "shark", "fin", "fang", "fangs", "tooth", "teeth", "maw", "jaw", "snap", "gnash", "dune", "dunes", "desert", "wastes", "frog", "toad", "leap", "lurker", "jump", "stalker", "terror"
     ],
     "DARKRANZA": [
     "spider", "tarantula", "wasp", "mimic", "web", "shade", "shadow", "reflection", "fluff", "heart", "regret", "mirror", "strike", "blaze", "echo", "spinner", "trickster"

@@ -385,6 +385,30 @@
             "one": "graphite",
             "many": "graphite"
         },
+        "WALNUT": {
+            "one": "walnut",
+            "many": "walnut"
+        },
+        "TAUPE": {
+            "one": "taupe",
+            "many": "taupe"
+        },
+        "LIGHT-TAUPE": {
+            "one": "light taupe",
+            "many": "light taupe"
+        },
+        "KHAKI": {
+            "one": "khaki beige",
+            "many": "khaki beige"
+        },
+        "GINGERBREAD": {
+            "one": "cinnamon",
+            "many": "cinnamon"
+        },
+        "DARK-WALNUT": {
+            "one": "dark walnut",
+            "many": "dark walnut"
+        },
         "GREEN": {
             "one": "green",
             "many": "green"
@@ -448,6 +472,14 @@
         "TECHNICOLOR-VOMIT": {
             "one": "technicolor",
             "many": "technicolor"
+        },
+        "WHITE-N-BLACK": {
+            "one": "bicolor",
+            "many": "bicolor"
+        },
+        "PACHIRISU": {
+            "one": "electric squirrel",
+            "many": "electric squirrel"
         },
         "VELOCIDROME": {
             "one": "blue",
@@ -524,6 +556,30 @@
         "DREADQUEEN": {
             "one": "olive",
             "many": "dreadqueen olive"
+        },
+        "MIZUTSUNE": {
+            "one": "eggshell",
+            "many": "eggshell"
+        },
+        "THUNDERBUBBLE": {
+            "one": "dust grey",
+            "many": "dust grey"
+        },
+        "VIO-MIZU": {
+            "one": "ghost white",
+            "many": "ghost white"
+        },
+        "SOULSEER": {
+            "one": "eggshell",
+            "many": "eggshell"
+        },
+        "ZAMTRIOS": {
+            "one": "pacific blue",
+            "many": "pacific blue"
+        },
+        "TIGERSTRIPE": {
+            "one": "sunlit clay",
+            "many": "sunlit clay"
         },
         "DARKRANZA": {
             "one": "chestnut",

@@ -528,6 +528,172 @@
                     "color": "exotic_pattern_fill_gradient_top"
                 }
             }
+        },
+        {
+            "colors": "PACHIRISU",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", ["8", "9"]],
+            "layers":
+            {
+                "4": {
+                    "group_name": "SOKOKEPATTERNFILL",
+                    "color": "exotic_pattern_fill",
+                    "opacity": 60
+                },
+                "5": {
+                    "group_name": "SOKOKEPATTERNFILLGRAD",
+                    "color": "exotic_pattern_fill_gradient_top"
+                }
+            }
+},
+        {
+            "colors": "MIZUTSUNE",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", ["8", "9"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "SOKOKEPATTERNFILL",
+                    "color": "exotic_pattern_fill",
+                    "opacity": 60
+                },
+                "5": {
+                    "group_name": "SOKOKEPATTERNFILLGRAD",
+                    "color": "exotic_pattern_fill_gradient_top"
+                }
+            }
+},
+        {
+            "colors": "THUNDERBUBBLE",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", ["8", "9"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "SOKOKEPATTERNFILL",
+                    "color": "exotic_pattern_fill",
+                    "opacity": 60
+                },
+                "5": {
+                    "group_name": "SOKOKEPATTERNFILLGRAD",
+                    "color": "exotic_pattern_fill_gradient_top"
+                }
+            }
+},
+        {
+            "colors": "VIO-MIZU",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", ["8", "9"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "SOKOKEPATTERNFILL",
+                    "color": "exotic_pattern_fill",
+                    "opacity": 60
+                },
+                "5": {
+                    "group_name": "SOKOKEPATTERNFILLGRAD",
+                    "color": "exotic_pattern_fill_gradient_top"
+                }
+            }
+},
+        {
+            "colors": "SOULSEER",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", ["8", "9"], "10"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "SOKOKEPATTERNFILL",
+                    "color": "exotic_pattern_fill",
+                    "opacity": 60
+                },
+                "5": {
+                    "group_name": "SOKOKEPATTERNFILLGRAD",
+                    "color": "exotic_pattern_fill_gradient_top"
+                },
+                "10": {
+                    "group_name": "EYERINGS",
+                    "color": "eyemask"
+                }
+            }
+},
+        {
+            "colors": "ZAMTRIOS",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", ["7.5", ["8", "9", "10", "+blend_mode:mask"], "11", "11.5"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "SOKOKEPATTERNFILL",
+                    "color": "exotic_pattern_fill",
+                    "opacity": 60
+                },
+                "5": {
+                    "group_name": "SOKOKEPATTERNFILLGRAD",
+                    "color": "exotic_pattern_fill_gradient_top"
+                },
+                "7.5": {
+                    "group_name": "BASICPATTERNGRAD",
+                    "color": "pattern_gradient_top"
+                },
+                "8": {
+                    "group_name": "SOKOKEPATTERNGRAD",
+                    "color": "pattern_gradient_top"
+                },
+                "9": {
+                    "group_name": "SOKOKEPATTERN"
+                },
+                "10": {
+                    "group_name": "SOKOKEPATTERN",
+                    "color": "pattern",
+                    "opacity": 50
+                },
+                "11": {
+                    "group_name": "BASICPATTERNGRAD",
+                    "color": "frost",
+                    "opacity": 95
+                },
+                "11.5": {
+                    "group_name": "SMOKETOPGRAD",
+                    "color": "top_frost",
+                    "opacity": 70
+                }
+            }
+        },
+        {
+            "colors": "TIGERSTRIPE",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", ["8", "9"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "4": {
+                    "group_name": "SOKOKEPATTERNFILL",
+                    "color": "exotic_pattern_fill",
+                    "opacity": 60
+                },
+                "5": {
+                    "group_name": "SOKOKEPATTERNFILLGRAD",
+                    "color": "exotic_pattern_fill_gradient_top"
+                }
+            }
         }
     ]
 }

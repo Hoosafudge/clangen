@@ -184,6 +184,32 @@
                     "color": "pattern_fill"
                 }
             }
+        },
+        {
+            "colors": "ZAMTRIOS",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], [["6.5", "7", "+blend_mode:mask"], "8", "8.5"]],
+            "layers":
+            {
+                
+                "6.5": {
+                   "group_name": "SMOKEPATTERNDARK"
+                },
+                "7": {
+                    "group_name": "TABBYPATTERN",
+                    "color": "pattern",
+                    "opacity": 0
+                },
+                "8": {
+                    "group_name": "BASICPATTERNGRAD",
+                    "color": "frost",
+                    "opacity": 95
+                },
+                "8.5": {
+                    "group_name": "SMOKETOPGRAD",
+                    "color": "top_frost",
+                    "opacity": 70
+                }
+            }
         }
     ]
 }
