@@ -589,6 +589,10 @@
             "one": "fire orange",
             "many": "fire orange"
         },
+        "ROSE-SU": {
+            "one": "rosy", 
+            "many": "rosy pink"
+        },
         "PEARL-SU": {
             "one": "pearlesque", 
             "many": "pearlesque"
@@ -596,6 +600,10 @@
         "GARNET-SU": {
             "one": "garnet-like",
             "many": "garnet-like"
+        },
+        "AMETHYST-SU": {
+            "one": "amethyst-like",
+            "many": "amethyst-like"
         },
         "JASPER-SU": {
             "one": "jasper-like",

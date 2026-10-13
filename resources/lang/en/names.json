@@ -807,12 +807,18 @@
     "FRACKTAIL": [
     "Frack", "Dragon", "Lizard"
     ],
+    "ROSE-SU": [
+    "Rose", "Quartz", "Pink", "Shield", "Petal", "Lily", "Blossom", "Bloom", "Rosy", "Flower", "Lion", "Gem", "Crystal"
+    ],
     "PEARL-SU": [
     "Pearl", "Reef", "Coral", "Dance", "Bird", "Lily", "Willow", "Petal", "Rose",
     "Flower", "Anemone", "Sand", "Weeping", "Gem", "Crystal", "Bright"
     ],
     "GARNET-SU": [
     "Garnet", "Ruby", "Sapphire", "Blaze", "Spark", "Fusion", "Love", "Gem", "Crystal", "Square"
+    ],
+    "AMETHYST-SU": [
+    "Amethyst", "Crystal", "Gem", "Purple", "Small", "Fluffy", "Quartz", "Loud"
     ],
     "JASPER-SU": [
     "Jasper", "Bright", "Gem", "Crystal", "Sand", "Red", "Beryl", "Quartz", "Break"
@@ -1317,23 +1323,29 @@
     "FRACKTAIL": [
     "tail", "flame", "roar", "flight", "turn", "bite"
     ],
+    "ROSE-SU": [
+    "flower", "petal", "meadow", "song", "dance", "gem", "crystal", "cloud", "dream", "mist", "bloom"
+    ],
     "PEARL-SU": [
     "flower", "petal", "meadow", "thrust", "pierce", "bloom", "dance", "mist", "dream", "cloud", "shine", "parry"
     ],
     "GARNET-SU": [
     "fist", "claw", "crush", "gem", "crystal", "stomp", "heart"
     ],
+    "AMETHYST-SU": [
+    "lash", "whip", "tail", "fluff", "roll", "gem", "crystal"
+    ],
     "JASPER-SU": [
-    "flame", "fluff", "smash", "shine", "blaze", "growl", "stone", "crash", "gem", "fury"
+    "flame", "fluff", "smash", "shine", "blaze", "growl", "stone", "crash", "gem", "fury", "crystal"
     ],
     "BISMUTH-SU": [
-    "shine", "melt", "glint", "burn"
+    "shine", "melt", "glint", "burn", "gem", "crystal"
     ],
     "PERIDOT-SU": [
     "shine", "scan", "spark", "gem", "crystal", "hearts", "heart"
     ],
     "LAPIS-SU": [
-    "wave", "stream", "creek", "water", "pond", "pool", "gem", "jewel", "river", "dive", "diver", "swim"
+    "wave", "stream", "creek", "water", "pond", "pool", "gem", "jewel", "river", "dive", "diver", "swim", "crystal"
     ],
     "WDIAMOND-SU": [
     "shine", "light", "cloud", "frost", "moon", "web", "dove", "ice", "snow", "egg", "shell", "smoke", "bone", "chill", "fog", "freeze", 
