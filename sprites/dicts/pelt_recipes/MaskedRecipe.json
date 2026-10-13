@@ -370,7 +370,7 @@
                     "color": "leggies"
                 }
             }
-},
+        },
         {
             "colors": "DARKRANZA",
             "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", "7.5", "8"],
@@ -428,7 +428,7 @@
         },
         {
             "colors": "MORPHO-KNIGHT",
-            "layer_order": ["1", "2", "3", "4", "5", "6", "7", ["8", ["9", "10", "11", "+blend_mode:mask"]]],
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
             "layers":
             {
                 "2": {

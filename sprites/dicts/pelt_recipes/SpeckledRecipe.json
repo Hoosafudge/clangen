@@ -347,7 +347,7 @@
                     "color": "leggies"
                 }
             }
-},
+        },
         {
             "colors": "DARKRANZA",
             "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", "7.5", "8"],
@@ -377,15 +377,40 @@
                     "color": "base_gradient_bottom"
                 }
             }
-},
+        },
         {
             "colors": "MORPHO-KNIGHT",
-            "layer_order": ["1", "2", "3", "4", "5", "6", "7", ["8", ["9", "10", "11", "+blend_mode:mask"]]],
+            "layer_order": ["1", "2", "3", "4", ["5", "6"]],
             "layers":
             {
                 "2": {
                     "group_name": "EXOTICBOTTOMGRAD",
                     "color": "base_gradient_bottom"
+                }
+            }
+        },
+        {
+            "colors": "MONARCH",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", "8", "8.5"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "7": {
+                    "group_name": "BASICPATTERNGRAD",
+                    "color": "pattern_gradient_top",
+                    "opacity": 95
+                },
+                "8": {
+                    "group_name": "EXOTICPATTERNLIGHT",
+                    "color": "pattern_fill"
+                },
+                "8.5": {
+                    "group_name": "TICKEDDOTS",
+                    "color": "pattern_fill",
+                    "opacity": 95
                 }
             }
         },
