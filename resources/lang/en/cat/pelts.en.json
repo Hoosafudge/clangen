@@ -593,6 +593,10 @@
             "one": "pearlesque", 
             "many": "pearlesque"
         },
+        "GARNET-SU": {
+            "one": "garnet-like",
+            "many": "garnet-like"
+        },
         "JASPER-SU": {
             "one": "jasper-like",
             "many": "jasper-like"

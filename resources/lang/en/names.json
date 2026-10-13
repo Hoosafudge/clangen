@@ -809,7 +809,10 @@
     ],
     "PEARL-SU": [
     "Pearl", "Reef", "Coral", "Dance", "Bird", "Lily", "Willow", "Petal", "Rose",
-    "Flower", "Anemone", "Sand", "Weeping", "Gem"
+    "Flower", "Anemone", "Sand", "Weeping", "Gem", "Crystal", "Bright"
+    ],
+    "GARNET-SU": [
+    "Garnet", "Ruby", "Sapphire", "Blaze", "Spark", "Fusion", "Love", "Gem", "Crystal", "Square"
     ],
     "JASPER-SU": [
     "Jasper", "Bright", "Gem", "Crystal", "Sand", "Red", "Beryl", "Quartz", "Break"
@@ -1316,6 +1319,9 @@
     ],
     "PEARL-SU": [
     "flower", "petal", "meadow", "thrust", "pierce", "bloom", "dance", "mist", "dream", "cloud", "shine", "parry"
+    ],
+    "GARNET-SU": [
+    "fist", "claw", "crush", "gem", "crystal", "stomp", "heart"
     ],
     "JASPER-SU": [
     "flame", "fluff", "smash", "shine", "blaze", "growl", "stone", "crash", "gem", "fury"
