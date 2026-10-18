@@ -795,6 +795,9 @@
     "MORPHO-KNIGHT": [
     "Morpho", "Butterfly", "Paradise", "Fire", "Flame", "Inferno", "Blazing", "Hellfire", "Death", "Dead", "Conflagration", "Sol", "Sun", "Sunfire", "Reaper", "Scorching", "Scorched", "Fluttering", "Fiend", "Orange", "Scarlet", "Flutter", "Soul", "Spirit"
     ],
+    "ELFILIS": [
+    "Antares", "Cosmic", "Cosmo", "Cosmos", "Celestial", "Vibrant", "Sol", "Luna", "Neutron", "Orbitar", "Meteor", "Comet", "Asteriod", "Kuiper", "Moon", "Sun", "Pulsar", "Sky", "Heavens", "Heaven", "Heavenly", "Fierce", "Conquest", "Fallen", "Forgotten", "Forsaken", "Split", "Broken", "Piercing", "Rending", "Raze", "Blazar", "Grazing", "Echo", "Destroyer", "Calamity", "Catastrophe", "Cataclysm", "Space", "Drifting", "Fell", "Teal", "Blue", "Aqua", "Aquamarine"
+    ],
     "HOOKTAIL": [
     "Hook", "Dragon", "Lizard", "Fire", "Flare", "Flame"
     ],
@@ -819,6 +822,12 @@
     ],
     "AMETHYST-SU": [
     "Amethyst", "Crystal", "Gem", "Purple", "Small", "Fluffy", "Quartz", "Loud"
+    ],
+    "RUBY-SU": [
+    "Garnet", "Ruby", "Blaze", "Spark", "Fusion", "Love", "Gem", "Crystal", "Square", "Fire", "Flame", "Eternal", "Burn"
+    ],
+    "SAPPHIRE-SU": [
+    "Garnet", "Sapphire", "Fusion", "Love", "Gem", "Crystal", "Square", "Blue", "Chill", "Frozen", "Ice", "Frost", "Cold", "Eternal"
     ],
     "JASPER-SU": [
     "Jasper", "Bright", "Gem", "Crystal", "Sand", "Red", "Beryl", "Quartz", "Break"
@@ -1311,6 +1320,9 @@
     "MORPHO-KNIGHT": [
     "morpho", "butterfly", "paradise", "fire", "flame", "inferno", "blaze", "hellfire", "death", "decay", "sol", "sun", "sunfire", "reaper", "scorch", "fiend", "flutter", "soul", "spirit"
     ],
+    "ELFILIS": [
+    "grazer", "comet", "meteor", "asteroid", "heavens", "sky", "belt", "debris", "moon", "sun", "sol", "luna", "fall", "break", "pierce", "rend", "raze", "blaze", "graze", "glow", "shine", "song", "echo", "drift", "drifter"
+    ],
     "HOOKTAIL": [
     "tail", "flame", "roar", "flight", "hook", "chirp"
     ],
@@ -1334,6 +1346,12 @@
     ],
     "AMETHYST-SU": [
     "lash", "whip", "tail", "fluff", "roll", "gem", "crystal"
+    ],
+    "RUBY-SU": [
+    "fist", "claw", "crush", "gem", "crystal", "stomp", "heart", "blaze", "burn", "swipe", "ring"
+    ],
+    "SAPPHIRE-SU": [
+    "frost", "gem", "crystal", "heart", "chill", "gaze", "sight", "heart", "ring"
     ],
     "JASPER-SU": [
     "flame", "fluff", "smash", "shine", "blaze", "growl", "stone", "crash", "gem", "fury", "crystal"

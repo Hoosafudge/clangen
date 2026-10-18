@@ -437,7 +437,18 @@
                 }
             }
         },
-                {
+        {
+            "colors": "ELFILIS",
+            "layer_order": ["1", "2", "2.5", "2.5", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "2.5": {
+                    "group_name": "BELLY",
+                    "color": "base_gradient_bottom"
+                }
+            }
+        },
+        {
             "colors": "MIZUTSUNE",
             "layer_order": ["1", "2", "3", "4", ["5", "6"]],
             "layers":

@@ -139,6 +139,8 @@ class Pelt:
     yellow_eyes: list = []
     green_eyes: list = []
     blue_eyes: list = []
+    red_eyes: list = []
+    grey_eyes: list = []
     for sprite_list in sprites.EYE_DATA["sprite_list"]:
         all_eye_colours.extend(sprite_list.keys())
         for colour in sprite_list:
@@ -148,6 +150,10 @@ class Pelt:
                 green_eyes.append(colour)
             elif sprite_list[colour] == "blue":
                 blue_eyes.append(colour)
+            elif sprite_list[colour] == "red":
+                red_eyes.append(colour)
+            elif sprite_list[colour] == "grey":
+                grey_eyes.append(colour)
 
     # SKIN
     skin_sprites: list = []
@@ -218,7 +224,7 @@ class Pelt:
         for sprite_list in sprites.COLLAR_DATA["sprite_list"]:
             collar_accessories.extend(sprite_list)
 
-    # this is used for acc-giving events, only change if you're adding a new category tag to the event filter
+    # this is used for acc-giving events and acc constraints, only change if you're adding a new category tag to the event filter
     # adding a category here will automatically update the event editor's options
     acc_categories = {
         "PLANT": plant_accessories,
@@ -589,7 +595,7 @@ class Pelt:
             num = 1
 
         if not random.randint(0, num):
-            colour_wheel = [Pelt.yellow_eyes, Pelt.blue_eyes, Pelt.green_eyes]
+            colour_wheel = [Pelt.yellow_eyes, Pelt.blue_eyes, Pelt.green_eyes, Pelt.red_eyes, Pelt.grey_eyes]
             for colour in colour_wheel[:]:
                 if self.eye_colour in colour:
                     colour_wheel.remove(

@@ -11,7 +11,7 @@
             "GREEN": "green",
             "BLUE": "blue",
             "DARKBLUE": "blue",
-            "GREY": "blue",
+            "GREY": "grey",
             "CYAN": "blue",
             "EMERALD": "green",
             "HEATHERBLUE": "blue",
@@ -23,13 +23,13 @@
             "COBALT": "blue",
             "PALEBLUE": "blue",
             "BRONZE": "yellow",
-            "SILVER": "yellow",
+            "SILVER": "grey",
             "PALEYELLOW": "yellow",
             "GOLD": "yellow",
             "GREENYELLOW": "yellow",
-            "ORANGE": "yellow",
-            "DAWN": "yellow",
-            "DUSK": "yellow"
+            "ORANGE": "red",
+            "DAWN": "red",
+            "DUSK": "red"
         },
         {
             "AURORA": "blue",
@@ -49,19 +49,58 @@
 	        "LEAF": "green",
 	        "AQUAMARINE": "green",
 	        "CACTUS": "green",
-            "MAPLE": "yellow",
+            "MAPLE": "red",
             "LIME": "green",
             "SAND": "yellow",
             "PERIWINKLE": "blue",
-            "WILDFIRE": "yellow",
-			"WALNUT": "yellow",
+            "WILDFIRE": "red",
+			"WALNUT": "red",
 			"SWAMP": "green",
 			"ALGAE": "green",
 			"STORM": "blue"
 		},
 	    {
-	        "PERIDOT": "green"
-	}
+	        "PERIDOT": "green",
+            "SCOURGE": "blue",
+            "RADISH": "green",
+		    "IVORY": "grey",
+	    	"COWPEA": "yellow",
+		    "BORAGE": "blue",
+	    	"SUNFLOWER": "yellow", 
+		    "PEPPERCORN": "yellow",
+            "EARTH": "green",
+            "VALENTINE": "red",
+            "DAWNSKY": "blue",
+            "TWILIGHTSKY": "red"
+	    },
+        {
+            "RED": "red",
+            "PINK": "red",
+            "FOSSILIZEDAMBER": "red",
+            "ALBINO": "red",
+            "WINTERROSE": "blue",
+            "REVERSESUNLITICE": "blue",
+            "MIDNIGHT": "grey",
+            "CURSE": "grey",
+            "BLESSING": "red",
+            "COPPERORE": "red",
+            "PHANTOM": "grey",
+            "BLUEHAZEL": "blue"
+        },
+        {
+            "STEEL": "grey",
+            "STORMY": "grey",
+            "GREYSILVER": "grey",
+            "RUSTY": "yellow",
+            "BLACK": "grey",
+            "BULLET": "grey",
+            "CLOUDY": "grey",
+            "SNOW": "grey",
+            "BASIL": "grey",
+            "DIRT": "green",
+            "BROWN": "red",
+            "BAY": "yellow"
+        }
 
     ]
 }
