@@ -653,9 +653,9 @@
             "one": "rich mahogany",
             "many": "rich mahogany"
         },
-        "DOVE": {
-            "one": "dove grey",
-            "many": "dove grey"
+        "WHITE-DOVE": {
+            "one": "dove white",
+            "many": "dove white"
         },
         "GRAPHITE": {
             "one": "graphite",
@@ -684,6 +684,18 @@
         "DARK-WALNUT": {
             "one": "dark walnut",
             "many": "dark walnut"
+        },
+        "DOVE": {
+            "one": "dove grey",
+            "many": "dove grey"
+        },
+        "MUSHROOM": {
+            "one": "mushroom buff",
+            "many": "mushroom buff"
+        },
+        "CHAMPAGNE": {
+            "one": "champagne",
+            "many": "champagne"
         },
         "GREEN": {
             "one": "green",
@@ -756,6 +768,10 @@
         "PACHIRISU": {
             "one": "electric squirrel",
             "many": "electric squirrel"
+        },
+        "DREAM-CAPTOR": {
+            "one": "enchanting azure",
+            "many": "enchanting azure"
         },
         "VELOCIDROME": {
             "one": "blue",
@@ -857,6 +873,18 @@
             "one": "sunlit clay",
             "many": "sunlit clay"
         },
+        "KIRIN": {
+            "one": "pale sky",
+            "many": "pale sky"
+        },
+        "OROSHI-KIRIN": {
+            "one": "ebony",
+            "many": "ebony"
+        },
+        "GOLDEN-KIRIN": {
+            "one": "bright gold",
+            "many": "thunder emperor gold"
+        },
         "DARKRANZA": {
             "one": "chestnut",
             "many": "gilded brown"
@@ -868,6 +896,14 @@
         "ELFILIS": {
             "one": "aquamarine",
             "many": "aquamarine"
+        },
+        "GENWEL": {
+            "one": "nebula",
+            "many": "nebula"
+        },
+        "CHAOS-ELFILIS": {
+            "one": "white",
+            "many": "white"
         },
         "ROSE-SU": {
             "one": "rosy", 

@@ -583,6 +583,22 @@
             "littleRIGHTEAR_MID",
             "littleEYELINER_MAX_R",
             "midMIA_REDUCED"
+        ],
+        "MELYNX": [
+            "littleMELYNX_MASK",
+            "littleMELYNX_PAW",
+            "littleLEFTEAR_MID",
+            "littleRIGHTEAR_MID",
+            "littleLEG_BACK_LEFT_MID_LOW",
+            "littleLEG_BACK_LEFT_MID",
+            "littleLEG_BACK_RIGHT_MID_LOW",
+            "littleLEG_BACK_RIGHT_MIN",
+            "littleLEG_FRONT_LEFT_MID_LOW",
+            "littleLEG_FRONT_LEFT_MID",
+            "littleLEG_FRONT_RIGHT_MID_LOW",
+            "littleLEG_FRONT_RIGHT_MID",
+            "littleTAIL_MID_LOW",
+            "littleTAIL_MID"
         ]
     },
     "high": {

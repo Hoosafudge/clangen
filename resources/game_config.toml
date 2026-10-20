@@ -536,7 +536,7 @@ dev_tools = false
   mediator_app_chance = 50
 
   # base 1/chance that a cat will be chosen as a med cat apprentice
-  base_medicine_app_chance = 41
+  base_medicine_app_chance = 40
 
 [roles."medicine cat apprentice"]
   # maximum number of medicine cat apprentices to full medicine cats (e.g. 4 adult medcats can have 2 apps total)
@@ -546,7 +546,7 @@ dev_tools = false
   threshold_percentage_seniors = 30
 
   # how many moons is considered "very old"
-  threshold_moons_ancient = 150
+  threshold_moons_ancient = 170
 
   # minimum percentage of medcat population that are ancient for buff to app chance
   threshold_percentage_ancient = 30
@@ -755,7 +755,7 @@ dev_tools = false
 
 [clan_creation]
   # Set this to -1 for it to be infinite
-  rerolls = 3
+  rerolls = -1
 
   # other clans will start with a random relation between the two numbers
   starting_clan_relation = [8, 12]
@@ -897,7 +897,7 @@ dev_tools = false
     # max herbs that can be gathered by a single med cat
     med_gather_max = 5
     # maximum herbs that can be gathered by each assistant
-    assistant_gather_max = 2.5
+    assistant_gather_max = 3
 
     [focus.herb_gathering.buff]
       [focus.herb_gathering.buff.SENSE]

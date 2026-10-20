@@ -513,6 +513,89 @@
                     "color": "base_gradient_bottom"
                 }
             }
+        },
+        {
+            "colors": "DREAM-CAPTOR",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "7": {
+                    "group_name": "EYERINGS",
+                    "color": "eyemask"
+                }
+            }
+        },
+{
+            "colors": "GENWEL",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7", "7.5"],
+            "layers":
+            {
+                "7": {
+                    "group_name": "EYERINGS",
+                    "color": "exotic_light_pattern"
+                },
+                "7.5": {
+                    "group_name": "LEGPATTERNGRAD",
+                    "color": "leggies",
+                    "opacity": 90
+                }
+            }
+        },
+        {
+            "colors": "CHAOS-ELFILIS",
+            "layer_order": ["1", "2", "2.5", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "2.5": {
+                    "group_name": "BELLY",
+                    "color": "base_gradient_bottom"
+                },
+                "7": {
+                    "group_name": "EYERINGS",
+                    "color": "exotic_light_pattern"
+                }
+            }
+        },
+        {
+            "colors": "KIRIN",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
+        },
+        {
+            "colors": "OROSHI-KIRIN",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], "7"],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                },
+                "7": {
+                    "group_name": "EXOTICPATTERNLIGHT",
+                    "color": "exotic_light_pattern"
+                }
+            }
+        },
+        {
+            "colors": "GOLDEN-KIRIN",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"]],
+            "layers":
+            {
+                "2": {
+                    "group_name": "EXOTICBOTTOMGRAD",
+                    "color": "base_gradient_bottom"
+                }
+            }
         }
     ]
 }

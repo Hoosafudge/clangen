@@ -633,7 +633,7 @@
     "RICH-MAHOGANY": [
     "Mahogany", "Dark", "Brown"
     ],
-    "DOVE": [
+    "WHITE-DOVE": [
     "Dove", "Pale", "Grey", "Silver", "Moon"
     ],
     "GRAPHITE": [
@@ -656,6 +656,15 @@
     ],
     "DARK-WALNUT": [
     "Dark", "Walnut", "Brown", "Bark"
+    ],
+    "DOVE": [
+    "Dove", "Pigeon", "Owl", "Grey", "Stone", "Pale", "Pebble"
+    ],
+    "MUSHROOM": [
+    "Brown", "Pale", "Mushroom", "Buff", "Beige", "Tan"
+    ],
+    "CHAMPAGNE": [
+    "Tan", "Pale", "Almond", "Fawn", "Fallow", "Peach"
     ],
     "GREEN": [
     "Green", "Verdant", "Leaf"
@@ -710,6 +719,9 @@
     ],
     "PACHIRISU": [
     "Spark", "Sparking", "Zap", "Lightning", "Thunder", "Nuzzle", "Squirrel", "Fluffy", "Bushy", "Static", "Shocking", "Electric", "Squirrel", "White", "Alabaster", "Pale", "Pastel"
+    ],
+    "DREAM-CAPTOR": [
+    "Blue", "Gold", "Gilded", "Dream", "Slumber", "Enchanting", "Mythical", "Mythic"
     ],
     "VELOCIDROME": [
     "Quick", "Blue", "Blurry", "Blurred", "Raptor", "Claw", "Jay", "Sky", "Sapphire", "Azure", "Lapis", "Striking", "Cunning"
@@ -789,6 +801,15 @@
     "TIGERSTRIPE": [
     "Shark", "Fin", "Fang", "Snapping", "Gnashing", "Orange", "Sandy", "Sand", "Sandstone", "Dune", "Dunes", "Frog", "Toad", "Leaping", "Lurking", "Stalking", "Jumping", "Terror", "Desert", "Wastes", "Dry", "Hot", "Scorched", "Scorching", "Tan"
     ],
+    "KIRIN": [
+    "Mythic", "Mythical", "Ephemeral", "Phantom", "Phantasm", "Specter", "Mist", "Misty", "Fog", "Foggy", "Horse", "Dragon", "Unicorn", "Kirin", "Legendary", "Running", "Racing", "Prancing", "Rushing", "Ghost", "Spirit", "Beautiful", "Piercing", "Spearing", "Spear", "Horn", "Galloping", "Thunder", "Lightning", "Flash", "Brilliant", "Bright", "Blinding", "Storm", "Striking", "Spark", "Bolt", "Blue", "Pale", "Azure", "Teal"
+    ],
+    "OROSHI-KIRIN": [
+    "Mythic", "Mythical", "Ephemeral", "Phantom", "Phantasm", "Specter", "Mist", "Misty", "Fog", "Foggy", "Horse", "Dragon", "Unicorn", "Kirin", "Legendary", "Running", "Racing", "Prancing", "Rushing", "Ghost", "Spirit", "Beautiful", "Piercing", "Spearing", "Spear", "Horn", "Galloping", "Frost", "Frosty", "Ice", "Icy", "Polar", "Frosted", "Freeze", "Freezing", "Frozen", "Void", "Black", "Purple", "Violet", "Icicle", "Glacier", "Oroshi", "Gale", "Tempest", "Katabatic", "Wind", "Front", "Ebony", "Ebon", "Twilight", "Dusk", "Dark", "Night", "Midnight"
+    ],
+    "GOLDEN-KIRIN": [
+    "Mythic", "Mythical", "Ephemeral", "Phantom", "Phantasm", "Specter", "Mist", "Misty", "Fog", "Foggy", "Horse", "Dragon", "Unicorn", "Kirin", "Legendary", "Running", "Racing", "Prancing", "Rushing", "Ghost", "Spirit", "Beautiful", "Piercing", "Spearing", "Spear", "Horn", "Galloping", "Thunder", "Lightning", "Flash", "Brilliant", "Bright", "Blinding", "Storm", "Striking", "Spark", "Bolt", "Yellow", "Saffron", "Gold", "Golden", "Sun", "Amber", "Copper", "Emperor"
+    ],
     "DARKRANZA": [
     "Spider", "Tarantula", "Joro", "Wasp", "Mimic", "Dark", "Twisted", "Shaded", "Shade", "Shadow", "Brown", "Chestnut", "Gold", "Gilded", "Web", "Tricky", "Fluffy", "Reflected", "Mirrored", "Mirror", "Echo", "Echoed"
     ],
@@ -797,6 +818,12 @@
     ],
     "ELFILIS": [
     "Antares", "Cosmic", "Cosmo", "Cosmos", "Celestial", "Vibrant", "Sol", "Luna", "Neutron", "Orbitar", "Meteor", "Comet", "Asteriod", "Kuiper", "Moon", "Sun", "Pulsar", "Sky", "Heavens", "Heaven", "Heavenly", "Fierce", "Conquest", "Fallen", "Forgotten", "Forsaken", "Split", "Broken", "Piercing", "Rending", "Raze", "Blazar", "Grazing", "Echo", "Destroyer", "Calamity", "Catastrophe", "Cataclysm", "Space", "Drifting", "Fell", "Teal", "Blue", "Aqua", "Aquamarine"
+    ],
+    "GENWEL": [
+    "Ares", "Cosmic", "Cosmo", "Cosmos", "Celestial", "Vibrant", "Sol", "Luna", "Neutron", "Orbitar", "Meteor", "Comet", "Asteriod", "Kuiper", "Moon", "Sun", "Pulsar", "Sky", "Heavens", "Heaven", "Heavenly", "Fierce", "Conquest", "Fallen", "Forgotten", "Forsaken", "Split", "Broken", "Piercing", "Rending", "Raze", "Blazar", "Grazing", "Echo", "Destroyer", "Calamity", "Catastrophe", "Cataclysm", "Space", "Drifting", "Fell", "Crystal", "Geo", "Radiant", "Theia", "Eclipse", "Storm", "Gemini", "Aries", "Deep", "Abyss", "Blue", "Indigo", "Twilight", "Purple", "Violet", "Night", "Dark", "Black"
+    ],
+    "CHAOS-ELFILIS": [
+    "Antares", "Cosmic", "Cosmo", "Cosmos", "Celestial", "Vibrant", "Sol", "Luna", "Neutron", "Orbitar", "Meteor", "Comet", "Asteriod", "Kuiper", "Moon", "Sun", "Pulsar", "Sky", "Heavens", "Heaven", "Heavenly", "Fierce", "Conquest", "Fallen", "Forgotten", "Forsaken", "Split", "Broken", "Piercing", "Rending", "Raze", "Blazar", "Grazing", "Echo", "Destroyer", "Calamity", "Catastrophe", "Cataclysm", "Space", "Drifting", "Fell", "White", "Pure", "Light", "Snow", "Cream", "Alabaster", "Bright", "Blinding", "Paragon", "Pale", "Ash", "Fire", "Flame", "Burning", "Blazing", "Cindered", "Cinder", "Ember", "Scorched", "Scorching", "Scourge", "Chaos", "Chaotic", "Ares", "Aries", "Eclipse", "Gemini", "Theia", "Radiant"
     ],
     "HOOKTAIL": [
     "Hook", "Dragon", "Lizard", "Fire", "Flare", "Flame"
@@ -1161,7 +1188,7 @@
     "RICH-MAHOGANY": [
     "mud", "tree", "bear"
     ],
-    "DOVE": [
+    "WHITE-DOVE": [
     "dove", "moon", "frost"
     ],
     "GRAPHITE": [
@@ -1184,6 +1211,15 @@
     ],
     "DARK-WALNUT": [
     "walnut", "tree", "bark", "mud"
+    ],
+    "DOVE": [
+    "dove", "pigeon", "owl", "stone", "pebble"
+    ],
+    "MUSHROOM": [
+    "mushroom", "shroom"
+    ],
+    "CHAMPAGNE": [
+    "fawn", "fallow"
     ],
     "GREEN": [
     "grass", "leaf", "sprout"
@@ -1238,6 +1274,9 @@
     ],
     "PACHIRISU": [
     "spark", "bolt", "zap", "lightning", "thunder", "nuzzle", "squirrel", "fluff", "puff", "fur", "shock"
+    ],
+    "DREAM-CAPTOR": [
+    "dream", "sleep", "snooze", "snore", "pool"
     ],
     "VELOCIDROME": [
     "jay", "raptor", "sky", "blur", "claw", "leap", "pounce", "strike", "striker", "chase", "chaser", "cry", "scale", "crest"
@@ -1314,6 +1353,15 @@
     "TIGERSTRIPE": [
     "shark", "fin", "fang", "fangs", "tooth", "teeth", "maw", "jaw", "snap", "gnash", "dune", "dunes", "desert", "wastes", "frog", "toad", "leap", "lurker", "jump", "stalker", "terror"
     ],
+    "KIRIN": [
+    "rush", "trot", "run", "strike", "gallop", "prance", "storm", "break", "horse", "dragon", "kirin", "neigh", "whinnie", "spear", "horn", "pierce", "beauty", "ghost", "phantom", "specter", "spirit", "phantasm", "lightning", "thunder", "strike", "bolt", "spark"
+    ],
+    "OROSHI-KIRIN": [
+    "rush", "trot", "run", "strike", "gallop", "prance", "storm", "break", "horse", "dragon", "kirin", "neigh", "whinnie", "spear", "horn", "pierce", "beauty", "ghost", "phantom", "specter", "spirit", "phantasm", "wind", "gale", "tempest", "frost", "ice", "icicle", "glacier", "freeze", "shadow", "front", "void", "oroshi", "night", "dusk", "twilight", "midnight"
+    ],
+    "GOLDEN-KIRIN": [
+    "rush", "trot", "run", "strike", "gallop", "prance", "storm", "break", "horse", "dragon", "kirin", "neigh", "whinnie", "spear", "horn", "pierce", "beauty", "ghost", "phantom", "specter", "spirit", "phantasm", "lightning", "thunder", "strike", "bolt", "spark", "lord", "emperor"
+    ],
     "DARKRANZA": [
     "spider", "tarantula", "wasp", "mimic", "web", "shade", "shadow", "reflection", "fluff", "heart", "regret", "mirror", "strike", "blaze", "echo", "spinner", "trickster"
     ],
@@ -1322,6 +1370,12 @@
     ],
     "ELFILIS": [
     "grazer", "comet", "meteor", "asteroid", "heavens", "sky", "belt", "debris", "moon", "sun", "sol", "luna", "fall", "break", "pierce", "rend", "raze", "blaze", "graze", "glow", "shine", "song", "echo", "drift", "drifter"
+    ],
+    "GENWEL": [
+    "grazer", "comet", "meteor", "asteroid", "heavens", "sky", "belt", "debris", "moon", "sun", "sol", "luna", "fall", "break", "pierce", "rend", "raze", "blaze", "graze", "glow", "shine", "song", "echo", "drift", "drifter", "storm", "eclipse"
+    ],
+    "CHAOS-ELFILIS": [
+    "grazer", "comet", "meteor", "asteroid", "heavens", "sky", "belt", "debris", "moon", "sun", "sol", "luna", "fall", "break", "pierce", "rend", "raze", "blaze", "graze", "glow", "shine", "song", "echo", "drift", "drifter", "fire", "ash", "cinder", "ember", "scorch", "scourge", "burn", "eclipse"
     ],
     "HOOKTAIL": [
     "tail", "flame", "roar", "flight", "hook", "chirp"

@@ -381,5 +381,9 @@
     "EYEDOT_STREAM": [
         "STREAMSTRIKE",
         "EYEDOT"
+    ],
+    "MELYNX": [
+        "MELYNX_MASK",
+        "MELYNX_PAW"
     ]
 }

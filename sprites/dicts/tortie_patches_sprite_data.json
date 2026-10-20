@@ -72,6 +72,12 @@
                 "BELLY_T",
                 "BOTHEARS_T",
                 "EYELINER_T"
+            ],
+            [
+                "MELYNX_MASK",
+                "MELYNX_PAW",
+                "BLOSSOMFALL"
+
             ]
         ]
 }
