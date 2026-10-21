@@ -83,6 +83,20 @@
         "BASIL": "greenish grey",
         "DIRT": "brownish green",
         "BROWN": "brown",
-        "BAY": "bay"
+        "BAY": "bay",
+        "AVOCADO": "avocado green",
+        "CRIMSON": "crimson red",
+        "THUNDERBOLT": "thunderbolt",
+        "PARADOX": "paradox",
+        "HALLOWEEN": "hallow purple",
+        "VOLCANO": "volcano red",
+        "SUNSET": "sunset pink",
+        "ECLIPSE": "eclipse red",
+        "FIREWORK": "firework",
+        "COTTONCANDY": "cotton candy",
+        "BLACKBERRY": "blackberry",
+        "GOLDMOON": "gold moon",
+        "PROPANE": "propane blue",
+        "FLAME": "flaming red"
     }
 }

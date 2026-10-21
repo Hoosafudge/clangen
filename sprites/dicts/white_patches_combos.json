@@ -132,7 +132,7 @@
             "littleMUZZLE",
             "littleTEARDROP"
         ],
-	"MINTOESTAIL": [
+        "MINTOESTAIL": [
             "littleTAIL_MIN",
             "littleLEG_FRONT_RIGHT_MIN",
             "littleLEG_FRONT_LEFT_MIN",
@@ -162,7 +162,7 @@
             "littleLEG_BACK_RIGHT_MIN",
             "littleLEG_BACK_LEFT_MIN_LOW",
             "littleLEG_BACK_LEFT_MIN"
-	    ],
+        ],
         "CHOSEN_ONE": [
             "littleESTRELLA",
             "littleSPARKLE",
@@ -185,6 +185,19 @@
         "DRIPPING_LEFT_FACE": [
             "littleLEFTEAR_MOSTLY",
             "littleTEARS_L"
+        ],
+        "MELYNX_EXTRA": [
+            "littleMELYNX_MASK",
+            "littleMELYNX_PAW",
+            "littleTAIL_LOW_RING",
+            "littleTAIL_HIGH_RING",
+            "littleTAIL_MID_RING",
+            "littleLEG_FRONT_LEFT_SMALL",
+            "littleLEG_FRONT_RIGHT_SMALL",
+            "littleLEG_BACK_LEFT_MID",
+            "littleLEG_BACK_RIGHT_MID",
+            "littleEYELINER_MIN_L",
+            "littleEYELINER_MIN_R"
         ]
     },
     "mid": {
@@ -500,7 +513,7 @@
             "littleTAIL_SMALL_LOW",
             "midFADEBELLY"
         ],
-	"SKUNKTWO": [
+        "SKUNKTWO": [
             "littleLEFTEAR_TIP",
             "littleLEG_BACK_LEFT_UNDER",
             "littleLEG_BACK_RIGHT_UNDER",
@@ -540,7 +553,7 @@
             "littleLEG_FRONT_LEFT_HIGH",
             "midBIB_FULL",
             "midCHEST_FULL"
-	],
+        ],
         "SHORELINE": [
             "midFCTWO_REDUCED",
             "midMITAINE",
@@ -776,11 +789,11 @@
             "littleUNDER_SMALL",
             "midWOODPECKER"
         ],
-	    "WOODFRECKLES": [
+        "WOODFRECKLES": [
             "littleTAIL_UNDER",
             "midWOODPECKER",
             "highFRECKLES"
-	    ],
+        ],
         "OVERCOAT": [
             "midFLANK_FULL",
             "midLEG_FRONT_RIGHT_REVERSE",
@@ -864,6 +877,13 @@
         "PAINTED_ROSINA": [
             "littleROSINA_REDUCED",
             "highPAINTED_REDUCED"
+        ],
+        "COAT_AND_TIE": [
+            "littleVEE",
+            "littleUNDER_MID",
+            "midFLANK_FULL",
+            "midLEG_FRONT_LEFT_REVERSE",
+            "midLEG_FRONT_RIGHT_REVERSE"
         ]
     },
     "mostly": {

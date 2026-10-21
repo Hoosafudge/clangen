@@ -15,7 +15,9 @@
             "CYAN": "blue",
             "EMERALD": "green",
             "HEATHERBLUE": "blue",
-            "SUNLITICE": "blue"
+            "SUNLITICE": "blue",
+            "AVOCADO": "green",
+            "CRIMSON": "red"
         },
         {
             "COPPER": "yellow",
@@ -29,7 +31,9 @@
             "GREENYELLOW": "yellow",
             "ORANGE": "red",
             "DAWN": "red",
-            "DUSK": "red"
+            "DUSK": "red",
+            "THUNDERBOLT": "blue",
+            "PARADOX": "yellow"
         },
         {
             "AURORA": "blue",
@@ -43,7 +47,9 @@
 	        "GRASSYGREEN": "green",
 	        "FERN": "green",
 	        "LICHEN": "green",
-	        "MOSSY": "green"
+	        "MOSSY": "green",
+            "HALLOWEEN": "red",
+            "VOLCANO": "red"
         },
 	    {
 	        "LEAF": "green",
@@ -57,7 +63,9 @@
 			"WALNUT": "red",
 			"SWAMP": "green",
 			"ALGAE": "green",
-			"STORM": "blue"
+			"STORM": "blue",
+            "SUNSET": "red",
+            "ECLIPSE": "red"
 		},
 	    {
 	        "PERIDOT": "green",
@@ -71,7 +79,9 @@
             "EARTH": "green",
             "VALENTINE": "red",
             "DAWNSKY": "blue",
-            "TWILIGHTSKY": "red"
+            "TWILIGHTSKY": "red",
+            "FIREWORK": "blue",
+            "COTTONCANDY": "red"
 	    },
         {
             "RED": "red",
@@ -85,7 +95,9 @@
             "BLESSING": "red",
             "COPPERORE": "red",
             "PHANTOM": "grey",
-            "BLUEHAZEL": "blue"
+            "BLUEHAZEL": "blue",
+            "BLACKBERRY": "blue",
+            "GOLDMOON": "yellow"
         },
         {
             "STEEL": "grey",
@@ -99,7 +111,9 @@
             "BASIL": "grey",
             "DIRT": "green",
             "BROWN": "red",
-            "BAY": "yellow"
+            "BAY": "yellow",
+            "PROPANE": "blue",
+            "FLAME": "red"
         }
 
     ]
