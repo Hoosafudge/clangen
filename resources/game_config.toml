@@ -696,14 +696,7 @@ dev_tools = true
   illness_chance = 270
   classic_illness_chance = 500
 
-  # how much the mortality will decrease each moon that the cat has a condition
-  moonskip_mortality_reduction = 0.05
-  excluded_from_mortality_reduction = ["redcough", "starving", "malnourished"]
-
-  # duration of applied conditions is multiplied by this number
   duration_modifier = 1
-  # conditions with listed tags will have modifier applied
-  duration_modifier_tags = []
 
   # how much each medicine cat reduces the chance of infection, higher number is better
   med_infection_reduction = 0.05
@@ -840,11 +833,11 @@ dev_tools = true
     injury_chance = 15
 
     [focus.hunting.injuries]
-      cracked_pads = 25
+      "cracked pads" = 25
       sore = 25
       bruises = 25
       sprain = 10
-      small_cut = 15
+      "small cut" = 15
 
     # Defines how much a working warrior(leader/deputy) or apprentice gathers additionally
     # these are also borrowed by the hoarding focus
@@ -986,16 +979,26 @@ dev_tools = true
     # list of injuries which can occur and to which distribution
     # INFO: current sum of injuries is 100 - for easier understanding it should stay the same
     [focus.raid_other_clans.injuries]
-      claw_wound = 15
-      cat_bite = 15
-      torn_pelt = 15
-      torn_ear = 15
-      bite_wound = 10
+      claw-wound = 15
+      "cat bite" = 15
+      "torn pelt" = 15
+      "torn ear" = 15
+      bite-wound = 10
       sprain = 10
       bruises = 7
       sore = 6
       small_cut = 4
       cracked_pads = 3
+
+    [focus.raid_other_clans.buff]
+      [focus.raid_other_clans.buff.FIGHTER]
+        tier = 1
+        # multiplies injury chance (increasing the number, thus making injury less likely)
+        injury_chance_modifier = 2
+      [focus.raid_other_clans.buff.STEALTH]
+        tier = 1
+        # increases each instance of supply gathered
+        supply_amount_buff = 1
 
     [focus.raid_other_clans.buff]
       [focus.raid_other_clans.buff.FIGHTER]
@@ -1063,9 +1066,6 @@ dev_tools = true
 
     # how many moons earlier are cats healed
     moons_earlier_healed = 1
-
-    # conditions that are excluded from moons_earlier_healed (they have a fixed duration)
-    excluded_from_moons_earlier_healed = ["pregnant"]
 
     [focus.rest_and_recover.buff]
       [focus.rest_and_recover.buff.HEALER]

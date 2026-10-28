@@ -1586,10 +1586,85 @@ def attempt_outbreak():
             ):
                 continue
 
-            if condition.name in possible_infections:
-                possible_infections[condition.name] = min(
-                    0.9,
-                    (possible_infections[condition.name] + condition.infectiousness),
+            if get_clan_setting("rest_and_recover") and (
+                game.clan.deputy and game.clan.deputy.status.alive_in_player_clan
+            ):
+                stopping_chance = constants.CONFIG["focus"]["rest_and_recover"][
+                    "outbreak_prevention"
+                ]
+                buffs = get_config("focus.rest_and_recover.buff")
+                for skill, tier in game.clan.deputy.skills.get_all().items():
+                    skill = skill.name
+                    if skill not in buffs.keys():
+                        continue
+                    if buffs[skill]["tier"] > tier:
+                        continue
+
+                    if "outbreak_prevention_modifier" in buffs[skill]:
+                        stopping_chance -= get_config(
+                            f"focus.rest_and_recover.buff.{skill}.outbreak_prevention_modifier"
+                        )
+
+                if not int(random.random() * stopping_chance):
+                    continue
+
+            if illness == "kittencough":
+                # adjust alive cats list to only include kittens
+                healthy_cats = list(
+                    filter(
+                        lambda kitty: (
+                            kitty.status.rank.is_baby()
+                            and kitty.status.alive_in_player_clan
+                            and not kitty.is_ill()
+                        ),
+                        Cat.all_cats.values(),
+                    )
+                )
+                healthy_count = len(healthy_cats)
+
+            max_infected = int(healthy_count / 2)  # 1/2 of alive cats
+            # If there are less than two cat to infect,
+            # you are allowed to infect all the cats
+            if max_infected < 2:
+                max_infected = healthy_count
+            # If, event with all the cats, there is less
+            # than two cats to infect, cancel outbreak.
+            if max_infected < 2:
+                return
+
+            weights = []
+            population = []
+            for n in range(2, max_infected + 1):
+                population.append(n)
+                weight = 1 / (0.75 * n)  # Lower chance for more infected cats
+                weights.append(weight)
+            infected_count = random.choices(population, weights=weights)[
+                0
+            ]  # the infected..
+
+            infected_names = []
+            involved_cats = []
+            infected_cats = random.sample(healthy_cats, infected_count)
+            for sick_meowmeow in infected_cats:
+                infected_names.append(str(sick_meowmeow.name))
+                involved_cats.append(sick_meowmeow.ID)
+                get_ill(
+                    sick_meowmeow, illness, event_triggered=True
+                )  # SPREAD THE GERMS >:)
+
+            # TODO: hardcoded text events, not good, need to consider how to convert
+            #  should this be handled in condition_events.py?
+            if illness == "kittencough":
+                event = i18n.t(
+                    "hardcoded.kittencough_spread",
+                    kits=adjust_list_text(infected_names),
+                    count=len(infected_names),
+                )
+            elif illness == "fleas":
+                event = i18n.t(
+                    "hardcoded.flea_spread",
+                    cats=adjust_list_text(infected_names),
+                    count=len(infected_names),
                 )
             else:
                 possible_infections[condition.name] = condition.infectiousness

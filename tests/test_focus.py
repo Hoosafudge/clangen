@@ -114,8 +114,8 @@ class TestFocus(unittest.TestCase):
         self.assertTrue(
             all(
                 [
-                    self.leader.temporary_conditions,
-                    self.deputy.temporary_conditions,
+                    self.leader.is_injured(),
+                    self.deputy.is_injured(),
                 ]
             )
         )
@@ -328,8 +328,8 @@ class TestFocus(unittest.TestCase):
             game.clan.freshkill_pile.total_amount,
             msg=f"Prey supply did not change as expected.",
         )
-        self.assertTrue(self.leader.temporary_conditions)
-        self.assertTrue(self.deputy.temporary_conditions)
+        self.assertTrue(self.leader.is_injured())
+        self.assertTrue(self.deputy.is_injured())
 
     def test_raid_other_clans_buff_supply(self):
         self.change_setting("raid_other_clans")
@@ -389,7 +389,14 @@ class TestFocus(unittest.TestCase):
             msg=f"Prey supply did not change as expected.",
         )
         self.assertTrue(
-            all([self.leader.temporary_conditions, self.deputy.temporary_conditions])
+            all(
+                [
+                    self.leader.is_injured(),
+                    self.deputy.is_injured(),
+                    self.leader.is_ill(),
+                    self.deputy.is_ill(),
+                ]
+            )
         )
         game.clan.herb_supply.disable_random = False
 
@@ -429,6 +436,13 @@ class TestFocus(unittest.TestCase):
             msg=f"Prey supply did not change as expected.",
         )
         self.assertTrue(
-            all([self.leader.temporary_conditions, self.deputy.temporary_conditions])
+            all(
+                [
+                    self.leader.is_injured(),
+                    self.deputy.is_injured(),
+                    self.leader.is_ill(),
+                    self.deputy.is_ill(),
+                ]
+            )
         )
         game.clan.herb_supply.disable_random = False
