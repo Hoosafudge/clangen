@@ -393,5 +393,43 @@
         "UNDERPAWS_T",
         "TAILTIPREVERSE_T",
         "BOTHEARS_T"
+    ],
+    "QUARTER": [
+        "MOORISH",
+        "SWOOP"
+    ],
+    "REEDS": [
+        "SPICEACCENT",
+        "SINGLESTRIPEPATTERN"
+    ],
+    "ROOTS": [
+        "SINGLESTRIPEPATTERN",
+        "EYERINGS",
+        "FALSEEYES",
+        "BRINDLE"
+    ],
+    "BOARSTRIPE": [
+        "SPICENOSE",
+        "SINGLESTRIPEPATTERN",
+        "FRECKLED",
+        "MELYNX_PAW"
+    ],
+    "FULLBODY": [
+        "ROSETAIL",
+        "MOORISH",
+        "BIBFULL_T",
+        "MILQUE"
+    ],
+    "NEWMOON": [
+        "EYESPOT_REVERSE_L",
+        "SPARKLE",
+        "POWDERSNOW",
+        "ROSINA_REDUCED"
+    ],
+    "WANINGCRESCENT": [
+        "EYESPOT_REVERSE_R",
+        "SPARKLE",
+        "REDTAIL",
+        "PAW_BL_SPLOTCH"
     ]
 }

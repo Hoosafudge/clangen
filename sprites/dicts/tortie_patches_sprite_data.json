@@ -11,7 +11,9 @@
                 "HALF",
                 "STREAK",
                 "MASK",
-                "SMOKE"
+                "SMOKE",
+                "EYESPOT_REVERSE_R",
+                "EYESPOT_REVERSE_L"
             ],
             [
                 "MINIMALONE",
@@ -23,7 +25,8 @@
                 "CHIMERA",
                 "CHEST",
                 "ARMTAIL",
-                "GRUMPYFACE"
+                "GRUMPYFACE",
+                "SPARKLE"
             ],
             [
                 "MOTTLED",
@@ -76,8 +79,14 @@
             [
                 "MELYNX_MASK",
                 "MELYNX_PAW",
-                "BLOSSOMFALL"
-
+                "BLOSSOMFALL",
+                "FALSEEYES",
+                "EYERINGS",
+                "SPICENOSE",
+                "ROSINA_REDUCED",
+                "SINGLESTRIPEPATTERN",
+                "SPICEACCENT",
+                "MOORISH"                
             ]
         ]
 }

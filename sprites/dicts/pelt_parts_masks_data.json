@@ -67,7 +67,10 @@
             "SPICEACCENT",
             "SPICENOSE",
             "SMOKETAILTIP",
-            "BELLY"
+            "BELLY",
+            "EMOPATTERNDARK",
+            "EMOPATTERNLIGHT",
+            "EYELINER"
         ]
     ]
 }

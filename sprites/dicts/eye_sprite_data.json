@@ -114,7 +114,9 @@
             "BAY": "yellow",
             "PROPANE": "blue",
             "FLAME": "red"
+        },
+        {
+            "MELON": "green"
         }
-
     ]
 }

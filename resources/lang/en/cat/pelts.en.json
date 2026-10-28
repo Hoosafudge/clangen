@@ -1014,6 +1014,8 @@
         "Cheetah_long": "unusually spotted %{color}",
         "Spice": "striped",
         "Spice_long": "unusually striped %{color}",
+        "Emo": "emo",
+        "Emo_long": "emo-looking %{color}",
         "Calico": "calico",
         "Calico_long": "%{color} calico",
         "Calico_tabby": "calico tabby",

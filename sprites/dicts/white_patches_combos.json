@@ -198,6 +198,11 @@
             "littleLEG_BACK_RIGHT_MID",
             "littleEYELINER_MIN_L",
             "littleEYELINER_MIN_R"
+        ],
+        "TIGERSCAR": [
+            "littleCHEST_STREAK",
+            "littleBELLY_MIN",
+            "littleCHEST_SMALL"
         ]
     },
     "mid": {
@@ -884,6 +889,19 @@
             "midFLANK_FULL",
             "midLEG_FRONT_LEFT_REVERSE",
             "midLEG_FRONT_RIGHT_REVERSE"
+        ],
+        "FRONT_SHIRT": [
+            "littleLEG_BACK_LEFT_UNDER",
+            "littleLEG_BACK_RIGHT_UNDER",
+            "littleTAILTIP",
+            "midSHIRT",
+            "highFRONT"
+        ],
+        "THREE_SPOT": [
+            "littleTAIL_REVERSE_HALF",
+            "midCHEST_HIGH",
+            "midSADDLE_MIN_REVERSE",
+            "highRINGTAIL_REDUCED"
         ]
     },
     "mostly": {
@@ -1066,6 +1084,17 @@
             "midFADEBELLY",
             "highREVERSEPANTS",
             "highMISTER"
+        ],
+        "MOORISH_ROSINA": [
+            "littleBEARD_SMALL",
+            "littleROSINA_REDUCED",
+            "littleNECKBEARD",
+            "mostlyMOORISH"
+        ],
+        "CAKE_FRECKLES": [
+            "midTAIL_REVERSE_HIGH",
+            "highCAKE_REDUCED",
+            "highFRECKLES"
         ]
     }
 }
